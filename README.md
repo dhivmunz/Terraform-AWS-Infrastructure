@@ -21,7 +21,6 @@ Terraform provisions the following AWS resources:
 
 ## 📂 Project Structure
 
-```text
 terraform-aws-infrastructure/
 │
 ├── main.tf
@@ -31,6 +30,7 @@ terraform-aws-infrastructure/
 ├── .gitignore
 ├── .terraform.lock.hcl
 └── README.md
+
 
 ⚙️ Technologies Used
 Terraform
